@@ -21,5 +21,4 @@ For this program you do not need to install anything.
 
 ## Authors
 
-By Abdiaziz Abdullahi
-(https://https://WWW.github.com/AbdiazizAbdullahi)
+By MOHAMEDNOOR ABDI
