@@ -1,0 +1,22 @@
+{
+  "name": "flatdango",
+  "version": "1.0.0",
+  "description": "mini-website",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdiazizAbdullahi/Flatdango.git"
+  },
+  "keywords": [
+    "flatdango"
+  ],
+  "author": "Abdiaziz Abdullahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdiazizAbdullahi/Flatdango/issues"
+  },
+  "homepage": "https://github.com/AbdiazizAbdullahi/Flatdango#readme"
+}
